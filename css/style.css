@@ -1,0 +1,90 @@
+.cotainer_12
+ {
+ 	background: #e3e3e3;
+ }
+ nav li
+  {display: inline;
+text-transform:uppercase;
+  }
+
+ .p 
+ {
+ 	width:100%;
+ 	background: #e3e3e3;
+ 	margin-left: 0px;
+     	
+
+	box-sizing: border-box;
+    float:right;
+
+ }
+ h3
+ {
+font-family: sans-serif;
+text-transform: uppercase;
+padding-left:0;
+
+
+ }
+
+ .grid_10 ul a:hover
+ {
+ 	text-decoration: #e3e3e3;
+ 	font-size: 30px;
+
+ }
+ .grid_3
+ {
+ 	background-color: ;
+ 	margin-top: 20px;
+ 	text-decoration-line:5px;
+ }
+ 
+ .image img{
+ 	float: left;
+ 	padding-right: 100px;
+ 	margin-right: 230px;
+ }
+
+.wrap  img{
+	width: 200px;
+	height:200px;
+}
+
+body
+{
+	background:#e3e3e3;
+}
+.p_grid8
+{
+	text-size:50%;
+	padding-left: 50px;
+}
+
+.grid_4
+{
+	margin-top: 20px;
+ 	margin-left:0;
+ 	text-decoration-line:5px;
+}
+
+
+.wrap5 img
+{
+	width:800px;
+	height:300px;
+
+}
+
+
+.wrap6 footer
+{
+
+text-transform: uppercase;
+  width: 1500px;
+  border: 15px solid white;
+  padding: 50px;
+  margin: 20px;
+
+  background:white;
+}
